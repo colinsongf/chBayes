@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+#idea
+.idea
+#Test
+Test
+#TestSet 
+Parent/Test/*
+Parent/Train/*
