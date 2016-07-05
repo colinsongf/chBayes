@@ -14,3 +14,18 @@ A Chinese Text Classification based on Navie Baye
 ### 分类结果
 采用F1值作为评价指标
 ![测试结果](https://github.com/terasum/chBayes/blob/master/test_result.png)
+
+###
+依赖
+1. jieba 分词
+
+`pip install jieba`
+
+2. numpy
+
+`pip install numpy`
+
+2. matplotlib
+
+`pip install matplotlib`
+
