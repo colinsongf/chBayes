@@ -1,5 +1,5 @@
 # chBayes
-A Chinese Text Classification based on Navie Baye
+A Chinese Text Classification based on Navie Bayes
 # 中文贝叶斯分类器
 ## 基于贝叶斯分类算法实现的中文文本分类器
 
